@@ -1,0 +1,9 @@
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/StudentGradeChecker.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/StudentGradeChecker_autogen_timestamp_deps.dir
+G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/StudentGradeChecker_autogen.dir

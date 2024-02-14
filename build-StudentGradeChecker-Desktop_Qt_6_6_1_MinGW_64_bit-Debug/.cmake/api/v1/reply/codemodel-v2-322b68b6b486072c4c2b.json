@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-63d6cb8be269f6225560.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StudentGradeChecker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentGradeChecker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentGradeChecker-Debug-06e958dd0022c2200aae.json",
+					"name" : "StudentGradeChecker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentGradeChecker_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentGradeChecker_autogen-Debug-d549ae4c08e6d92d9b0c.json",
+					"name" : "StudentGradeChecker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentGradeChecker_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentGradeChecker_autogen_timestamp_deps-Debug-5e775f491e5c00612491.json",
+					"name" : "StudentGradeChecker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/StudentGradeChecker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

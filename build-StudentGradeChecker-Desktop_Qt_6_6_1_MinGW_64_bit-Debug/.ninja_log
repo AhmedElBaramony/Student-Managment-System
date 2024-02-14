@@ -1,0 +1,61 @@
+# ninja log v5
+20	571	7257204623061774	StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+613	4676	7257204664057881	CMakeFiles/StudentGradeChecker.dir/StudentGradeChecker_autogen/mocs_compilation.cpp.obj	b892c9b8bac71b39
+20	571	7257204623061774	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+787	4986	7257204667210526	CMakeFiles/StudentGradeChecker.dir/removestudent.cpp.obj	fe54a13a1d5b9c99
+636	1888	7257204636165871	CMakeFiles/StudentGradeChecker.dir/classes.cpp.obj	9b7d5e4eb99f420a
+20	571	7257204623061774	StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+707	5659	7257204673851659	CMakeFiles/StudentGradeChecker.dir/searchstudent.cpp.obj	a427c6a3aaf4a543
+20	571	7257204623061774	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+679	4470	7257204661921739	CMakeFiles/StudentGradeChecker.dir/main.cpp.obj	d058cb805afdc162
+655	4839	7257204665683951	CMakeFiles/StudentGradeChecker.dir/mainwindow.cpp.obj	8b3013b183e6a702
+5659	6944	7257204686710926	StudentGradeChecker.exe	7cb1b745358c2c52
+731	4800	7257204665280766	CMakeFiles/StudentGradeChecker.dir/addstudent.cpp.obj	42e604aa222e30ef
+756	5201	7257204669238502	CMakeFiles/StudentGradeChecker.dir/registersubjects.cpp.obj	87d0effd5b9702c1
+773	4911	7257204666434708	CMakeFiles/StudentGradeChecker.dir/subjectcalculations.cpp.obj	a736dd52b179ca2
+799	5282	7257204670136058	CMakeFiles/StudentGradeChecker.dir/removesubject.cpp.obj	d2b72deea3705e59
+75	594	7289711264827183	StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+75	594	7289711264827183	StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+75	594	7289711264827183	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+75	594	7289711264827183	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+638	1736	7289711276173312	CMakeFiles/StudentGradeChecker.dir/classes.cpp.obj	9b7d5e4eb99f420a
+628	3553	7289711294354493	CMakeFiles/StudentGradeChecker.dir/main.cpp.obj	d058cb805afdc162
+647	3756	7289711296104857	CMakeFiles/StudentGradeChecker.dir/mainwindow.cpp.obj	8b3013b183e6a702
+612	3770	7289711296552864	CMakeFiles/StudentGradeChecker.dir/StudentGradeChecker_autogen/mocs_compilation.cpp.obj	b892c9b8bac71b39
+682	3838	7289711297210714	CMakeFiles/StudentGradeChecker.dir/removestudent.cpp.obj	fe54a13a1d5b9c99
+671	4015	7289711298988320	CMakeFiles/StudentGradeChecker.dir/addstudent.cpp.obj	42e604aa222e30ef
+691	4069	7289711299387657	CMakeFiles/StudentGradeChecker.dir/removesubject.cpp.obj	d2b72deea3705e59
+662	4091	7289711299756671	CMakeFiles/StudentGradeChecker.dir/subjectcalculations.cpp.obj	a736dd52b179ca2
+655	4092	7289711299770068	CMakeFiles/StudentGradeChecker.dir/registersubjects.cpp.obj	87d0effd5b9702c1
+621	4297	7289711301841370	CMakeFiles/StudentGradeChecker.dir/searchstudent.cpp.obj	a427c6a3aaf4a543
+4297	5223	7289711311033957	StudentGradeChecker.exe	7cb1b745358c2c52
+6	226	7289712286322286	StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+6	226	7289712286322286	StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+6	226	7289712286322286	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+6	226	7289712286322286	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+276	1316	7289712297154374	CMakeFiles/StudentGradeChecker.dir/classes.cpp.obj	9b7d5e4eb99f420a
+268	3040	7289712314397611	CMakeFiles/StudentGradeChecker.dir/main.cpp.obj	d058cb805afdc162
+259	3277	7289712316767068	CMakeFiles/StudentGradeChecker.dir/mainwindow.cpp.obj	8b3013b183e6a702
+243	3292	7289712316927452	CMakeFiles/StudentGradeChecker.dir/StudentGradeChecker_autogen/mocs_compilation.cpp.obj	b892c9b8bac71b39
+296	3369	7289712317693431	CMakeFiles/StudentGradeChecker.dir/addstudent.cpp.obj	42e604aa222e30ef
+285	3403	7289712318065103	CMakeFiles/StudentGradeChecker.dir/subjectcalculations.cpp.obj	a736dd52b179ca2
+314	3408	7289712318144884	CMakeFiles/StudentGradeChecker.dir/removestudent.cpp.obj	fe54a13a1d5b9c99
+325	3484	7289712318894723	CMakeFiles/StudentGradeChecker.dir/removesubject.cpp.obj	d2b72deea3705e59
+305	3584	7289712319917883	CMakeFiles/StudentGradeChecker.dir/registersubjects.cpp.obj	87d0effd5b9702c1
+253	3748	7289712321538345	CMakeFiles/StudentGradeChecker.dir/searchstudent.cpp.obj	a427c6a3aaf4a543
+3748	4769	7289712331667271	StudentGradeChecker.exe	7cb1b745358c2c52
+6	224	7289712931998745	StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+6	224	7289712931998745	StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+6	224	7289712931998745	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/timestamp	fde89d8b2098fcdc
+6	224	7289712931998745	G:/Universty/Semester (5)/(CSE331) - Data Structures & Algorithms/Project/GUI/build-StudentGradeChecker-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/StudentGradeChecker_autogen/mocs_compilation.cpp	fde89d8b2098fcdc
+251	1128	7289712940974534	CMakeFiles/StudentGradeChecker.dir/classes.cpp.obj	9b7d5e4eb99f420a
+242	3058	7289712959896217	CMakeFiles/StudentGradeChecker.dir/StudentGradeChecker_autogen/mocs_compilation.cpp.obj	b892c9b8bac71b39
+267	3065	7289712960295189	CMakeFiles/StudentGradeChecker.dir/main.cpp.obj	d058cb805afdc162
+275	3217	7289712961893096	CMakeFiles/StudentGradeChecker.dir/mainwindow.cpp.obj	8b3013b183e6a702
+293	3288	7289712962626670	CMakeFiles/StudentGradeChecker.dir/addstudent.cpp.obj	42e604aa222e30ef
+309	3330	7289712963052045	CMakeFiles/StudentGradeChecker.dir/subjectcalculations.cpp.obj	a736dd52b179ca2
+324	3347	7289712963224641	CMakeFiles/StudentGradeChecker.dir/removestudent.cpp.obj	fe54a13a1d5b9c99
+284	3400	7289712963759302	CMakeFiles/StudentGradeChecker.dir/registersubjects.cpp.obj	87d0effd5b9702c1
+334	3482	7289712964579702	CMakeFiles/StudentGradeChecker.dir/removesubject.cpp.obj	d2b72deea3705e59
+258	3834	7289712968081707	CMakeFiles/StudentGradeChecker.dir/searchstudent.cpp.obj	a427c6a3aaf4a543
+3835	4690	7289712976579240	StudentGradeChecker.exe	7cb1b745358c2c52

@@ -1,0 +1,434 @@
+None -1 0
+# -1
+Mohamed 1 19
+Physics-1 76
+Programming-1 76
+Marketing 85
+Report-writing 75
+# -1
+Baramony 2 3
+# -1
+AhmedEhabMohamed 3 3
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+John 25 4
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Baramony 261 3
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Mohamed 56 3
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Karim 60 3
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Afandi 283 3
+Math-1 76
+Marketing 95
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Omar 123 19
+Physics-1 80
+Physics-2 90
+Physics-3 90
+# -1
+Ahmed 334 19
+Physics-1 60
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Hesham 545 19
+Physics-1 70
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+Ahmed2 756 19
+Physics-1 80
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
+None -1 0
+# -1
