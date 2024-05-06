@@ -1,6 +1,6 @@
 # Student Management System
 
-This project is a Student Managament System implemented in C++ with a graphical user interface (GUI). The application allows users to manage students, subjects, and their grades, providing functionalities such as calculating GPA, mean, median, mode, and standard deviation for both subjects and students.
+This project is a Student Managament System implemented in C++ with a graphical user interface (GUI) using Qt. The application allows users to manage students, subjects, and their grades, providing functionalities such as calculating GPA, mean, median, mode, and standard deviation for both subjects and students.
 
 ## Features
 
