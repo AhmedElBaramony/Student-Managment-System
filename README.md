@@ -1,19 +1,85 @@
 # Student Management System
 
-This project is a Student Managament System implemented in C++ with a graphical user interface (GUI) using Qt. The application allows users to manage students, subjects, and their grades, providing functionalities such as calculating GPA, mean, median, mode, and standard deviation for both subjects and students.
+## Overview
+This project was developed as part of the **Data Structures and Algorithms** course.  
+It implements a **Student Management System** with a GUI interface, enabling efficient handling of student records and subject registration.  
+The system provides features such as adding/removing students, registering/dropping subjects, searching for students, and performing subject-related calculations.
+
+---
 
 ## Features
+- **Main Window** to navigate between functions
+- **Add Student** – register new students with details
+- **Remove Student** – delete existing student records
+- **Register Subject** – assign subjects to students
+- **Remove Subject** – drop subjects from student records
+- **Search Student** – locate students by their details
+- **Subject Calculations** – calculate and manage subject loads
+- Graphical User Interface with easy navigation
 
-- **Subject Management:**
-  - Create, edit, and delete subjects with prerequisites and credit hours.
-  - View and analyze subject statistics: mean, median, mode, and standard deviation of grades.
+---
 
-- **Student Management:**
-  - Add, remove, and edit student information.
-  - Enroll students in subjects and input their grades.
-  - Calculate student GPA and view statistics: mean, median, mode, and standard deviation of grades.
+## Technologies Used
+- **C++**
+- **Data Structures & Algorithms**
+  - Linked Lists
+  - Arrays
+  - File Handling
+- **GUI (Qt / C++ based)**
+- **OOP Principles**
 
-- **GUI Interface:**
-  - User-friendly graphical interface for easy interaction with the application.
-  - Intuitive navigation and input forms for managing students and subjects.
+---
 
+## Skills Gained
+- Applied **data structures** in real-world student record management
+- Designed a **GUI application** integrating backend logic with frontend
+- Implemented file handling for persistent data storage
+- Strengthened skills in **object-oriented design**
+- Practiced modular programming (separate logic and GUI files)
+
+---
+
+## Getting Started
+### Prerequisites
+- C++ compiler (e.g., g++, MinGW, MSVC)
+- Qt framework (for GUI support)
+
+### Usage
+1. Clone the repository.
+2. Compile the source files:
+   ```bash
+   g++ main.cpp logic.cpp gui.cpp -o StudentManagementSystem
+   ```
+3. Run the application:
+   ```bash
+   ./StudentManagementSystem
+   ```
+4. Use the GUI to:
+   - Add or remove students
+   - Register or drop subjects
+   - Search for students
+   - Perform subject calculations
+
+---
+
+## Program Screenshots
+- **Main Window**
+- **Search Student**
+- **Add Student**
+- **Remove Student**
+- **Subject Calculations**
+- **Subject Registration**
+- **Remove Subject**
+
+---
+
+## Source Code
+The complete source code is available here:  
+[Google Drive Link](https://drive.google.com/drive/folders/1MwbMS_z2IpkVlkkxoYLo9Cz8FGUWk9mU?usp=sharing)
+
+---
+
+## Authors
+- Ahmed Ehab Mohamed El-Baramony (21P0261)  
+- Ahmed Mohamed Mohamed (22P0283)  
+- Ahmed Mohamed Hassan El-Henawy (21P0298)
